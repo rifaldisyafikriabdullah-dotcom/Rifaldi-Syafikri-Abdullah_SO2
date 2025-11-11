@@ -1,7 +1,7 @@
 # Project_so_saira_bagian3
 ## Nama: Rifaldi Syafikri Abdullah
 ## NIM: 05301425019
-## MK : Sistem Operasi (project 2)
+## MK : Sistem Operasi (project 3)
 ## Kelas : Sistem Informasi -A
 
 ### Script Membuat Struktur Proyek
